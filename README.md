@@ -1,5 +1,11 @@
 # Práctica TAW-251 – Sistema de Gestión de Cine
 
+PRÁCTICA y PARA PUNTAJE EXTRA
+
+Estudiante: 	Avilés Loza Michelle Jeicy
+
+Materia: 	TAW-251 Desarrollo Web Backend.
+
 API REST para administrar salas, películas, géneros, funciones, clientes y la venta de boletos.
 
 **Stack:** NestJS · TypeORM · MySQL (XAMPP) · class-validator · Scalar (documentación) · JWT (extra)
